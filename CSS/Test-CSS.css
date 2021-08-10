@@ -1,0 +1,13 @@
+.Subject{
+    text-align: center;
+    color: brown;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Content{
+    text-align: center;
+    color: rgb(42, 141, 199);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
